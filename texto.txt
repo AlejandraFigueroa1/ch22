@@ -1,0 +1,4 @@
+Hola hola soy ale
+aquí se ve una  prueba de txt para subir en un commit
+usaré git add . luego git commit y git push
+
